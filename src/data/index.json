@@ -1,0 +1,214 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Front-End",
+      "description":"HTML5, CSS3, JavaScript(ES6+), jquery, ReactJs, Bootstrap,  ReduxJs  " 
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-2.png",
+      "title": "Back-End",
+      "description": " PHP, Python, Node.js, Express.js, Laravel, MySQL, MongoDB"
+    },
+    {
+      "id": "3",
+      "src": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-1024.png",
+      "title": "UI & UX Design",
+      "description": "Figma, Canva, Adobe Photoshop  "
+    },
+    {
+      "id": "4",
+      "src": "https://www.battea.com/wp-content/uploads/2016/04/icon-data-analysis.png",
+      "title": "conception",
+      "description": "UML : Class Diagrams, Use Case Diagrams, Sequence Diagrams.  MERISE : MCD, MLD "
+    }
+    ,
+    {
+      "id": "5",
+      "src": "https://cdn2.iconfinder.com/data/icons/career-advancement-10/64/Basic-needs-approach-mindset-creative-512.png",
+      "title": "project management approaches and tools",
+      "description": "Scrum, PERT, GANTT, JIRA "
+    }
+    ,
+    {
+      "id": "6",
+      "src": "https://www.sunteam.nl/images/detailed/10/microsoft-office-2013-icon-2000x2370.png",
+      "title": "Microsoft Office Suite",
+      "description": "Word, Excel, PowerPoint "
+    }
+    ,
+    {
+      "id": "7",
+      "src": "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253808/git-icon-icon-md.png",
+      "title": " Version Control ",
+      "description": "Git, GitHub, and GitLab "
+    }
+    ,
+    {
+      "id": "8",
+      "src": "https://www.flagship.io/wp-content/uploads/ci-cd-diagram.png",
+      "title": " CI/CD ",
+      "description": "Continuous Integration ,Continuous Deployment, automate and streamline the process of building, testing, and deploying code"
+    }
+  ],
+
+
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/pr1.png",
+      "title": "ZIT-Shop",
+      "description": "An e-commerce website for clothing: using  Figma for UI/UX design, Laravel for the back-end, React for the front-end, MySQL for the database,Merise/UML for the architecture" ,
+      "link": "https://zit-shop.netlify.app",
+      "github":"https://github.com/romyo1999/zit-shop/tree/master"
+
+    },
+    {
+      "id": "2",
+      "src": "./img/pr2.png",
+      "title": "English From Scratch",
+      "description": "website to learn English grammar from scratch using HTML, CSS, Bootstrap, and JavaScript With a series of structured courses and quizzes, providing a clear path for language mastery.",
+      "link": "https://tahargriach.netlify.app/",
+      "github":"https://github.com/romyo1999/english-from-scratch"
+
+    },
+    {
+      "id": "3",
+      "src": "./img/pr3.png",
+      "title": "Stickers-Designs",
+      "description": "An e-commerce  website for purchasing high-quality stickers and design files in PNG and SVG formats I created to learn react ,using REACT, CSS ,Bootstrap ,Javascript  ",
+      "link": "https://tahargriach.surge.sh/",
+      "github":"https://github.com/romyo1999/react-website"
+
+    }
+  ],
+
+  "testimonial": [
+    {
+      "id": "1",
+      "certificate":"./img/cr1.pdf",
+      "name": "Baccalaureate (High School Diploma)",
+      "date":"2017-2018",
+      "school":"Moulay Mohammed Ben Abdellah , Larache",
+      "description": "Bac Sciences Physiques: Physics-focused diploma with core subjects like Physics, Chemistry, Math, and Life Sciences. Opens doors to science, medical, engineering studies, and more. Aim for a strong mention for better opportunities."
+
+    },
+    {
+      "id": "2",
+      "name": "Diploma in Digital Development, Web Full Stack Option",
+      "date":"2022-2024",
+      "school":"ISTA , Larache",
+      "description": "diploma focuses on Digital Development with a specialization in Web Full Stack. It includes modules in French, technical English, entrepreneurial culture, behavioral skills, agile methodology, data management, front-end, and back-end developmen"
+
+    },
+    {
+      "id": "3",
+      "name": "Certificate: PCAP - Programming Essentials in Python",
+      "date":"2023",
+      "school":"Cisco Networking Academy ",
+      "description": " offered by Cisco Networking Academy®  teaches essential Python programming skills, covering concepts, syntax, and best practices. Graduates become proficient in writing effective Python programs and working with modules, files, and object-oriented programming principles."
+
+    }
+   
+    ,
+    {
+      "id": "4",
+      "name": "Certificate: Management of Articles, Suppliers, and Stocks",
+      "date":"2022",
+      "school":"ESEC ,Tanger  ",
+      "description": " Management of Articles, Suppliers, and Stocks from ESEC provides participants with skills in inventory, supplier, and stock management. It covers inventory control, procurement processes, supplier relationship management, and stock optimization."
+
+    }
+    ,
+    {
+      "id": "5",
+      "name": " Certificate in Industrial Automation and Instrumentation",
+      "date":"2019-2020",
+      "school":"Higher Instute Detechnologie Appliquee ,Tanger ",
+      "description": "  Industrial Automation and Instrumentation encompasses a one-year study program covering various aspects of electrical circuits, electronics, digital systems, signal processing, power circuits, quality awareness, and automation technologies."
+
+    }
+    ,
+    {
+      "id": "6",
+      "name": "Microsoft Certificate in SharePoint-Powered Classroom",
+      "date":"2022",
+      "school":"Microsoft ",
+      "description": "  equips educators with the skills to effectively leverage SharePoint for classroom management and collaboration. It covers techniques for organizing content, facilitating communication, and enhancing productivity in educational settings ."
+
+    }
+    ,
+    {
+      "id": "7",
+      "name": "Certificate in Microsoft 365 Apps and Business Apps Delivery",
+      "date":"2022",
+      "school":"Microsoft ",
+      "description": "  validates expertise in deploying and managing Microsoft 365 applications and business-focused apps. It signifies proficiency in ensuring smooth integration, deployment, and maintenance of these applications to enhance productivity and efficiency within organizations. ."
+
+    }
+    ,
+    {
+      "id": "8",
+      "name": "Certificate in Microsoft 365 Directory and Network Readiness Analysis",
+      "date":"2022",
+      "school":"Microsoft ",
+      "description": "  certificate demonstrates proficiency in evaluating and optimizing directory services and network infrastructure to facilitate the effective integration and deployment of Microsoft 365 solutions"
+
+    }
+    ,
+    {
+      "id": "9",
+      "name": "Certificate in Migrating User Files and Settings in Microsoft 365",
+      "date":"2022",
+      "school":"Microsoft ",
+      "description": " he certificate signifies proficiency in migrating user files and settings within the Microsoft 365 environment. It validates expertise in transferring user data and configurations seamlessly while ensuring data integrity and security "
+
+    }
+  ]
+  ,
+  "experiences":[
+
+    {
+      "id":"1",
+      "role": "Operator on Automatic Machines in Electrical or Electronic Production",
+      "date":"2020",
+      "company":" sigit maroc ,tanger ",
+      "description": " manufacture car parts and supply them to Renault's automotive industry "
+      ,
+      "image":"https://www.sigit.it/wp-content/uploads/2018/03/logo_sigit_top.png"
+    }
+    ,
+    {
+      "id":"2",
+      "role": "Operator on Automatic Machines in Electrical or Electronic Production",
+      "date":"2020-2022",
+      "company":" Ti fluid systems ,tanger ",
+      "description": " manufacture fluid pipelines for cars and supply them to Mercedes and Volkswagen automotive industries "
+      ,
+      "image":"https://chambermaster.blob.core.windows.net/images/customers/1571/members/595/logos/MEMBER_PAGE_HEADER/TI_Automotive_Stacked_Logo_CMYK.png"
+    }
+    ,
+    {
+      "id":"3",
+      "role": "3-month internship in logistics and forklift operation ",
+      "date":"2021-2022",
+      "company":" Ti fluid systems ,tanger ",
+      "description": " Receive raw materials, store, organize, and input into system. Transfer to production, inspect final product, and ship to client "
+      ,
+      "image":"https://chambermaster.blob.core.windows.net/images/customers/1571/members/595/logos/MEMBER_PAGE_HEADER/TI_Automotive_Stacked_Logo_CMYK.png"
+    }
+    ,
+    {
+      "id":"4",
+      "role": "Chef : fast food cook  ",
+      "date":"2022-2023",
+      "company":" venezia ice ,larache ",
+      "description": " Cooked various dishes including burgers, pizza, sandwiches, pasta, salads, crepes, tacos, and paninis."
+      ,
+      "image":"https://www.svgrepo.com/show/140025/cooking.svg"
+    }
+  ]
+}
