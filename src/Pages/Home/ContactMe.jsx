@@ -13,7 +13,7 @@ export default function ContactMe() {
         Have a question or project in mind? I'm here to help! Whether it's collaboration, job opportunities, or just to say hello, I'd love to hear from you
         </p>
       </div>
-      <form className="contact--form--container" name="contact" method="POST"     data-netlify="true">
+{/*       <form className="contact--form--container" name="contact" method="POST"     data-netlify="true">
         <div className="container">
           <label htmlFor="first-name" className="contact--label">
             <span className="text-md">First Name</span>
@@ -91,6 +91,17 @@ export default function ContactMe() {
         <div>
           <button type="submit" className="btn btn-primary contact--form--btn">Submit</button>
         </div>
+      </form> */}
+        <form name="contact" netlify>
+        <p>
+          <label>Name <input type="text" name="name" /></label>
+        </p>
+        <p>
+          <label>Email <input type="email" name="email" /></label>
+        </p>
+        <p>
+          <button type="submit">Send</button>
+        </p>
       </form>
     </section>
   );
